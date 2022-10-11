@@ -1,14 +1,19 @@
-<h1>Git As A Version Management Service</h1>
-<h2>What is version control</h2>
+Git As A Version Management Service
+=======
+
+What is version control
+-----------
+
 <p> Version control is software used to track revisions, solve integration conflicts in code, and manage different artifacts involved in software projects (e.g. design, data, images). Version control also enables frictionless communication, change, and reproducibility between team members.
 
 With version control, you’re able to track and merge branches, audit changes, and enable concurrent work to accelerate software delivery. Version control is the foundation and the stepping stone of DevOps, software architecture, and release patterns, without which an org cannot start. Using version control results in remarkable team productivity and software quality improvements.</p>
-<h2>What is git</h2>
-
+What is git
+-----------
 
 <p>Git is a distributed version control system that enables software development teams to have multiple local copies of the project’s codebase independent of each other. These copies, or branches, can be created, merged, and deleted quickly, empowering teams to experiment, with little compute cost, before merging into the main branch. Git is known for its speed, workflow compatibility, and open source foundation.</p>
 
-<h2>Benefit of git</h2>
+Benefit of git
+-----------
 <p>Software development teams prefer Git over other version control systems, like CVS, Mercurial, and Perforce, because Git has the adaptability, speed, and stability required to thrive in fast-paced markets. It’s no wonder that 87.2% of developers use Git for version control. If organizations want to quickly meet customer demand and business goals, Git version control is the simplest way to empower developers.
 
 Git’s ability to store a complete history of a project locally is a benefit, because Git branches are lightweight and the protocol is fast, so contributors can be anywhere, even with a poor connection and still sync a local copy with any other team member.
