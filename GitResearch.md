@@ -7,6 +7,7 @@ What is version control
 <p> Version control is software used to track revisions, solve integration conflicts in code, and manage different artifacts involved in software projects (e.g. design, data, images). Version control also enables frictionless communication, change, and reproducibility between team members.
 
 With version control, you’re able to track and merge branches, audit changes, and enable concurrent work to accelerate software delivery. Version control is the foundation and the stepping stone of DevOps, software architecture, and release patterns, without which an org cannot start. Using version control results in remarkable team productivity and software quality improvements.</p>
+
 What is git
 -----------
 
